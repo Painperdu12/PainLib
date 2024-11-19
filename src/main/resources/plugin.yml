@@ -1,0 +1,8 @@
+name: PainLib
+version: '${version}'
+main: org.survivalcraft.painlib.PainLib
+api-version: '1.19'
+prefix: [PainLib]
+authors: [Painperdu12]
+description: Default lib for SurvivalCraft plugins.
+website: www.survivalcraft.org
